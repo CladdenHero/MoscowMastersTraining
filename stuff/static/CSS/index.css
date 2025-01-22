@@ -1,0 +1,17 @@
+h1 {
+    color: orange;
+}
+
+.special {
+    color: red;
+    font-weight: bold;
+}
+
+.dzeta a:visited {
+    text-decoration: none;
+    color: pink;
+}
+.dzeta a:hover {
+    color: red;
+    background: lightskyblue;
+}
